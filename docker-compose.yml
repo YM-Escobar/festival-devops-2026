@@ -1,0 +1,14 @@
+services:
+  backend:
+    build: ./backend
+    container_name: festival-backend
+    ports:
+      - "5000:5000"
+
+  frontend:
+    image: nginx:latest
+    container_name: festival-frontend
+    ports:
+      - "8080:80"
+    volumes:
+      - ./frontend:/usr/share/nginx/html
