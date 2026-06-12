@@ -54,7 +54,7 @@ docker compose up --build
 
 ## Autor
 
-Brayan Díaz Arrieta
+Yeiner Stainer Moreno Escobar
 
 Actividad de Aprendizaje #6 - Git y GitHub
 SENA - DevOps y Contenedores (Docker)
