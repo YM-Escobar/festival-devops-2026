@@ -3,7 +3,7 @@ name: Verificacion de Estructura del Proyecto
 on:
   push:
     branches:
-      - main
+      - master
 
 
 jobs:
@@ -29,4 +29,3 @@ jobs:
       - name: Mensaje de validacion
         run: echo "Proyecto validado correctamente"
 
-        

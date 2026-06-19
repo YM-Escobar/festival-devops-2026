@@ -1,5 +1,7 @@
 # Festival DevOps Music Fest
 
+## BADGE DE ESTADO
+
 ## Descripción
 
 Proyecto desarrollado para la actividad de aprendizaje de Git y GitHub del programa DevOps y Contenedores (Docker). El proyecto simula la gestión de un festival musical utilizando un frontend web y un backend desarrollado con Flask.
