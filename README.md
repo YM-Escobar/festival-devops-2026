@@ -1,6 +1,6 @@
 # Festival DevOps Music Fest
 
-## BADGE DE ESTADO
+[![Verificacion de Estructura del Proyecto](https://github.com/YM-Escobar/festival-devops-2026/actions/workflows/ci.yml/badge.svg)](https://github.com/YM-Escobar/festival-devops-2026/actions/workflows/ci.yml)
 
 ## Descripción
 
